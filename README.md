@@ -10,13 +10,13 @@
 * [User Info](#user-info)
 
 ### Understand Backend Development
-- [ ] What is a backend application?
-- [ ] How it is different than front end application
-- [ ] What does a backend application do
-- [ ] Which programming languages are required
-- [ ] Who is a backend developer
-- [ ] What are the roles of a backend developer
-- [ ] What is Server
+- [x] What is a backend application?
+- [x] How it is different than front end application
+- [x] What does a backend application do
+- [x] Which programming languages are required
+- [x] Who is a backend developer
+- [x] What are the roles of a backend developer
+- [x] What is Server
 - [ ] What is database
 - [ ] How does the internet work
 - [ ] What is TCP/HTTP

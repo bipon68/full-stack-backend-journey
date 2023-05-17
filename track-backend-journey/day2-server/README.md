@@ -9,6 +9,7 @@
 - [Sendgrid](https://sendgrid.com/)
 - [Twillo](https://www.twilio.com/en-us)
 - [Sendbird](https://sendbird.com/)
+- [supabase](https://supabase.com/)
 
 ### Reference
 
