@@ -12,6 +12,7 @@
 /player-api/node_modules
 /restapi/node_modules
 /assignment/assignment-1/node_modules
+/assignment/assignment-2/node_modules
 
 # profiling files
 chrome-profiler-events*.json
@@ -58,3 +59,4 @@ primeng-theme/mirage/src/assets/sass/theme/designer
 restapi/package-lock.json
 player-api/package-lock.json
 assignment/assignment-1/package-lock.json
+assignment/assignment-2/package-lock.json
