@@ -1,0 +1,22 @@
+{
+  "name": "my-blog-api",
+  "version": "1.0.0",
+  "description": "<!-- TABLE OF CONTENTS -->\r ## Project Step\r - install `npm i express swagger-ui-express yamljs`",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node index.js",
+    "dev": "nodemon index.js"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.18.2",
+    "swagger-ui-express": "^5.0.0",
+    "yamljs": "^0.3.0"
+  },
+  "devDependencies": {
+    "nodemon": "^3.0.0"
+  }
+}

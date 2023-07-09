@@ -13,6 +13,7 @@
 /restapi/node_modules
 /assignment/assignment-1/node_modules
 /assignment/assignment-2/node_modules
+/my-blog-api/node_modules
 
 # profiling files
 chrome-profiler-events*.json
@@ -60,3 +61,4 @@ restapi/package-lock.json
 player-api/package-lock.json
 assignment/assignment-1/package-lock.json
 assignment/assignment-2/package-lock.json
+my-blog-api/package-lock.json
